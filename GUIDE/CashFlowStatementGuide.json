@@ -96,49 +96,49 @@
     {
       "id": 1,
       "name_category": "Cash Flow",
-      "title": "Apa Itu Pinjam Duit - KTA Cepat",
+      "title": "What is a cash flow statement?",
       "image": "file:///android_asset/image/bg.png",
-      "description": "Sekilas Tentang Pinjaman Online Pinjam Duit - KTA Cepat",
+      "description": "A cash flow statement is an important tool used to manage finances",
       "link": "file:///android_asset/guide/guide_1.html"
     },
       {
       "id": 2,
       "name_category": "Cash Flow",
-      "title": "Pencairan Pinjaman Online Pinjam Duit - KTA Cepat",
+      "title": "Structure or Format of the Cash Flow Statement",
       "image": "file:///android_asset/image/bg.png",
-      "description": "Berapa Lama Proses Pencairan Pinjaman Pinjam Duit - KTA Cepat",
+      "description": "There are three sections in a cash flow statement",
       "link": "file:///android_asset/guide/guide_2.html"
     },
     {
       "id": 3,
       "name_category": "Cash Flow",
-      "title": "Apakah Pinjaman Online Di Pinjam Duit - KTA Cepat",
+      "title": "How Cash Flow Is Calculated",
       "image": "file:///android_asset/image/bg.png",
-      "description": "Apakah Pinjaman Online Terdaftar OJK",
+      "description": "The direct method adds up all of the cash payments and receipts",
       "link": "file:///android_asset/guide/guide_3.html"
       }, 
     {
       "id":4,
       "name_category": "Cash Flow",
-      "title": "Syarat Dan Ketentuan Pinjaman Di Pinjam Duit - KTA Cepat",
+      "title": "Cash Flow Statement vs Income Statement vs Balance Sheet",
       "image": "file:///android_asset/image/bg.png",
-      "description": "Syarat Dan Ketentuan Agar Pinjaman Online Cepat Cair",
+      "description": "The cash flow statement measures the performance of a company over a period of time.",
       "link": "file:///android_asset/guide/guide_4.html"
     },
     {
       "id": 5,
       "name_category": "Cash Flow",
-      "title": "Cara Menghitung Bunga Pinjaman Di Pinjam Duit - KTA Cepat",
+      "title": "Cash flow statement example",
       "image": "file:///android_asset/image/bg.png",
-      "description": "Penjelasan Cara Menghitung Bunga Pinjaman Di Pinjam Duit - KTA Cepat",
+      "description": "Following is an example of what a cash flow statement looks like.",
       "link": "file:///android_asset/guide/guide_5.html"
     },
      {
       "id":6,
       "name_category": "Cash Flow",
-      "title": "Kemudahan Yang Didapat Di Pinjaman Online Pinjam Duit - KTA Cepat ",
+      "title": "Difference Between Direct and Indirect Cash Flow Statements",
       "image": "file:///android_asset/image/bg.png",
-      "description": "Kemudhan Pinjaman Online di Pinjam Duit - KTA Cepat",
+      "description": "The difference lies in how the cash inflows and outflows are determined.",
       "link": "file:///android_asset/guide/guide_6.html"
     }
   ]
