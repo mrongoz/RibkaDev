@@ -97,7 +97,7 @@
       "id": 1,
       "name_category": "Cash Flow",
       "title": "What is a cash flow statement?",
-      "image": "file:///android_asset/image/bg.png",
+      "image": "file:///android_asset/image/1.png",
       "description": "A cash flow statement is an important tool used to manage finances",
       "link": "file:///android_asset/guide/guide_1.html"
     },
@@ -105,7 +105,7 @@
       "id": 2,
       "name_category": "Cash Flow",
       "title": "Structure or Format of the Cash Flow Statement",
-      "image": "file:///android_asset/image/bg.png",
+      "image": "file:///android_asset/image/2.png",
       "description": "There are three sections in a cash flow statement",
       "link": "file:///android_asset/guide/guide_2.html"
     },
@@ -113,7 +113,7 @@
       "id": 3,
       "name_category": "Cash Flow",
       "title": "How Cash Flow Is Calculated",
-      "image": "file:///android_asset/image/bg.png",
+      "image": "file:///android_asset/image/3.png",
       "description": "The direct method adds up all of the cash payments and receipts",
       "link": "file:///android_asset/guide/guide_3.html"
       }, 
@@ -121,7 +121,7 @@
       "id":4,
       "name_category": "Cash Flow",
       "title": "Cash Flow Statement vs Income Statement vs Balance Sheet",
-      "image": "file:///android_asset/image/bg.png",
+      "image": "file:///android_asset/image/4.png",
       "description": "The cash flow statement measures the performance of a company over a period of time.",
       "link": "file:///android_asset/guide/guide_4.html"
     },
@@ -129,7 +129,7 @@
       "id": 5,
       "name_category": "Cash Flow",
       "title": "Cash flow statement example",
-      "image": "file:///android_asset/image/bg.png",
+      "image": "file:///android_asset/image/5.png",
       "description": "Following is an example of what a cash flow statement looks like.",
       "link": "file:///android_asset/guide/guide_5.html"
     },
@@ -137,7 +137,7 @@
       "id":6,
       "name_category": "Cash Flow",
       "title": "Difference Between Direct and Indirect Cash Flow Statements",
-      "image": "file:///android_asset/image/bg.png",
+      "image": "file:///android_asset/image/6.png",
       "description": "The difference lies in how the cash inflows and outflows are determined.",
       "link": "file:///android_asset/guide/guide_6.html"
     }
